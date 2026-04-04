@@ -7,19 +7,24 @@ declare module "@material-tailwind/react" {
     onPointerLeaveCapture?: React.PointerEventHandler<HTMLElement>;
   }
 
-  // Use 'SelectProps' for the Select component
-  export interface SelectProps extends GenericProps {}
-  
-  // These cover your previous errors
+  // The specific fix for your current error
+  export interface CardProps extends GenericProps {}
+  export interface CardHeaderProps extends GenericProps {}
+  export interface CardBodyProps extends GenericProps {}
+  export interface CardFooterProps extends GenericProps {}
+
+  // Your previous fixes
   export interface TypographyProps extends GenericProps {}
   export interface IconButtonProps extends GenericProps {}
+  export interface SelectProps extends GenericProps {}
   
-  // Highly recommended: Add these now to prevent future build failures
+  // Other common components to prevent future build failures
   export interface ButtonProps extends GenericProps {}
   export interface InputProps extends GenericProps {}
   export interface NavbarProps extends GenericProps {}
-  export interface CardProps extends GenericProps {}
   export interface MenuProps extends GenericProps {}
   export interface DialogProps extends GenericProps {}
   export interface AvatarProps extends GenericProps {}
+  export interface CheckboxProps extends GenericProps {}
+  export interface SwitchProps extends GenericProps {}
 }
