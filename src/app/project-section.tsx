@@ -73,7 +73,7 @@ export function ProjectSection() {
           Find What I Develop
         </Typography>
         <Typography className="!font-normal text-gray-500 mx-auto max-w-2xl">
-          Streamline your technical workflow with our intuitive navigation system. Whether you're searching for specific frameworks, API integrations, or deployment environments, find exactly what your project needs.
+          Streamline your technical workflow with our intuitive navigation system. Whether you are searching for specific frameworks, API integrations, or deployment environments, find exactly what your project needs.
         </Typography>
       </div>
       <div className="mx-auto container">
