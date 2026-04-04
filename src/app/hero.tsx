@@ -19,30 +19,117 @@ function Hero() {
           </Typography>
           <Typography className="mt-12 mb-4 text-blue-gray-900 font-medium uppercase">
             Connect me on:
-            
-          Fiverr
-          Upwork
-          Freelancer
-          Guru
-          FB
-          Insta
-          Linkedin
-          Youtube
-          Stackoverflow
-          Git
-          Portfolio
-          My Blog
-
           </Typography>
           <div className="gap-2 lg:flex">
             <IconButton variant="text" color="gray">
-              <i className="fa-brands fa-facebook text-lg" />
+              <Typography
+                  as="a"
+                  href="https://www.linkedin.com/in/ammad-hadi-ehsan-a32032a0/"
+                  variant="small"
+                  className="font-normal text-gray-700 hover:text-gray-900 transition-colors"
+                >
+                  <i className="fa-brands fa-linkedin text-lg" />
+                </Typography>
             </IconButton>
             <IconButton variant="text" color="gray">
-              <i className="fa-brands fa-instagram text-lg" />
+              <Typography
+                  as="a"
+                  href="https://www.facebook.com/virtualpro.ather"
+                  variant="small"
+                  className="font-normal text-gray-700 hover:text-gray-900 transition-colors"
+                >
+                  <i className="fa-brands fa-facebook text-lg" />
+                </Typography>
             </IconButton>
             <IconButton variant="text" color="gray">
-              <i className="fa-brands fa-github text-lg" />
+              <Typography
+                  as="a"
+                  href="https://www.instagram.com/my_ammad/"
+                  variant="small"
+                  className="font-normal text-gray-700 hover:text-gray-900 transition-colors"
+                >
+                  <i className="fa-brands fa-instagram text-lg" />
+                </Typography>
+            </IconButton>
+            <IconButton variant="text" color="gray">
+              <Typography
+                  as="a"
+                  href="https://www.youtube.com/@virtualpro3180"
+                  variant="small"
+                  className="font-normal text-gray-700 hover:text-gray-900 transition-colors"
+                >
+                  <i className="fa-brands fa-youtube text-lg" />
+                </Typography>
+            </IconButton>
+            <IconButton variant="text" color="gray">
+              <Typography
+                  as="a"
+                  href="https://github.com/ammadhadi/"
+                  variant="small"
+                  className="font-normal text-gray-700 hover:text-gray-900 transition-colors"
+                >
+                  <i className="fa-brands fa-github text-lg" />
+                  </Typography>
+            </IconButton>
+            <IconButton variant="text" color="gray">
+              <Typography
+                  as="a"
+                  href="https://stackoverflow.com/users/20964432/ammad-hadi-ehsan"
+                  variant="small"
+                  className="font-normal text-gray-700 hover:text-gray-900 transition-colors"
+                >
+                  <i className="fa-brands fa-stack-overflow text-lg" />
+                  </Typography>
+            </IconButton>
+            <IconButton variant="text" color="gray">
+              <Typography
+                  as="a"
+                  href="https://ammadhadi.vercel.app/"
+                  variant="small"
+                  className="font-normal text-gray-700 hover:text-gray-900 transition-colors"
+                >
+                  <i className="fa-solid fa-globe text-lg" />
+                  </Typography>
+            </IconButton>
+            <IconButton variant="text" color="gray">
+              <Typography
+                  as="a"
+                  href="https://www.fiverr.com/iqra_noor_ehsan/"
+                  variant="small"
+                  className="font-normal text-gray-700 hover:text-gray-900 transition-colors"
+                >
+                  <i className="fa-brands fa-ravelry text-lg" />
+                  </Typography>
+            </IconButton>
+            <IconButton variant="text" color="gray">
+              <Typography
+                  as="a"
+                  href="https://www.upwork.com/freelancers/~01e4dc9a1b6a12bd34"
+                  variant="small"
+                  className="font-normal text-gray-700 hover:text-gray-900 transition-colors"
+                >
+                  <i className="fa-brands fa-ups text-lg" />
+                  </Typography>
+            </IconButton>
+            <IconButton variant="text" color="gray">
+              <Typography
+                  as="a"
+                  href="https://www.freelancer.com/u/ammadhadi"
+                  variant="small"
+                  className="font-normal text-gray-700 hover:text-gray-900 transition-colors"
+                >
+                  <i className="fa-brands fa-codepen text-lg" />
+                  </Typography>
+            </IconButton>
+            <IconButton variant="text" color="gray">
+              <Typography
+                  as="a"
+                  href="https://www.guru.com/freelancers/virtualpro-active"
+                  variant="small"
+                  className="font-normal text-gray-700 hover:text-gray-900 transition-colors"
+                >
+                  <i className="fa-brands fa-grunt text-lg" />
+                  </Typography>
             </IconButton>
           </div>
         </div>
