@@ -20,7 +20,7 @@ export function ProjectCard({
   return (
     <Card shadow={false} className="border border-gray-300">
       <CardBody className="pb-0">
-        <img src={img} alt={img} className="min-w-[280px] w-full" />
+        <img src={img} alt={img} className="w-full aspect-video object-cover rounded-t-xl" />
         <div className="flex justify-between">
           <div>
             <Typography className="mb-2" color="blue-gray" variant="h5">
