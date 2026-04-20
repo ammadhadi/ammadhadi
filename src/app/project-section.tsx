@@ -46,20 +46,41 @@ export function ProjectCard({
 
 const CONTENTS = [
   {
-    img: "https://www.material-tailwind.com/image/product-4.png",
-    name: "Project 1",
-    price: "Wordpress"
+    img: "/works/DingDong-Web.jpg",
+    name: "Dating Web App",
+    price: "Java, MySQL, HTML, CSS, Javascript, Jquery"
   },
   {
-    img: "https://www.material-tailwind.com/image/product-3.png",
-    name: "Project 2",
-    price: "Reactjs"
+    img: "/works/KassandraElements-Web.jpg",
+    name: "Medical & Learning Platform",
+    price: "Wordpress, Elementor, Custom CSS, Custom Js"
   },
   {
-    img: "https://www.material-tailwind.com/image/product-5.png",
-    name: "Project 3",
-    price: "Nextjs"
+    img: "/works/BinSadiq-Web.jpeg",
+    name: "Real Estate Web",
+    price: "Wordpress, Elementor, Custom CSS, Custom Js"
   },
+  {
+    img: "/works/PeoplesPhone-Web.jpg",
+    name: "Mobile Carrier E-Commerce Web",
+    price: "Wordpress, Third Party API Integration, Customization, Elementor, Custom CSS, Custom Js"
+  },
+  {
+    img: "/works/Alasary-Web.JPG",
+    name: "Woodedn, Arts & Craft Web",
+    price: "Wordpress, Elementor, Custom CSS, Custom Js"
+  },
+  {
+    img: "/works/MsTechnical-Web.jpeg",
+    name: "Techical Service Web",
+    price: "Wordpress, Elementor, Custom CSS, Custom Js"
+  },
+  {
+    img: "/works/FloRide-Mobile-Web.jpg",
+    name: "RIde Hailing Web & Mobile App",
+    price: "Laravel, MySQL, Reactjs, Firebase, Google APIs, Java, React Native"
+  },
+  
 ];
 
 export function ProjectSection() {

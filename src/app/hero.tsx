@@ -8,7 +8,8 @@ function Hero() {
       <div className="grid place-items-center min-h-[92vh] px-8">
         <div className="container mx-auto grid place-items-center h-max text-center">
           <Typography variant="h3" color="blue-gray">
-            Profile Summary
+            Connect & Hire Me for  <br/>
+            IT, Automation, AI, Digital & Social Assistance & Services
           </Typography>
           <Typography
             variant="lead"

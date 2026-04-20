@@ -14,7 +14,7 @@ const EDUCATION = [
     title: "Bachelor of Science in Computer Science - Federal Urdu University - Arts, Science & Technology",
     date: "2014",
     children:
-      "Relevant Coursework: Mobile Development, Web Development, Database Management, Artificial Intelligence - Agents, Software Engineering, Project Management.",
+      "Relevant Coursework: Mobile Development, Web Development, Database Management, Data Analytics, Artificial Intelligence - Agents, Software Engineering, Project Management.",
   },
   {
     icon: AcademicCapIcon,
@@ -35,31 +35,45 @@ const EDUCATION = [
 const EXPERIENCE = [
   {
     icon: BriefcaseIcon,
-    title: "Freelancer Web Developer",
-    date: "2023 - PRESENT",
+    title: "Freelancer",
+    date: "2014 - PRESENT",
     children:
-      "The core of my work involved actual web development. I would write code, design layouts, and create functionality based on the project's specifications.",
+      "I'm specialized in architecting enterprise systems using .NET MVC, .NET Core, PHP (Laravel & CodeIgniter), MS SQL Server, MySQL, and Python. I have expertise in building interactive, high-speed user interfaces with ReactJS, Next.js, and TypeScript. I can do customization in theme and plugin in WordPress. I have experience of mobile development using React Native. I can develop custom Python scripts to streamline workflows and automate repetitive business tasks.  I have developed clear user manuals, installation guides, API documentation, system architecture guides, and FAQs that reduce support tickets and improve UX. I'm proficient in Research Writing, case studies, and white papers requiring deep analysis and formal formatting. I am able to write high-ranking blog posts and articles tailored for Search Engine results (On-page SEO). I can craft compelling non-academic narratives, business proposals, and creative storytelling for diverse audiences",
   },
   {
     icon: BriefcaseIcon,
-    title: "Technical Team Lead",
-    date: "2021 - 2023",
+    title: "Full Stack Software Developer @ M/s e-Tools Software Pty Ltd. (A part of M/s e-Tools Software Pty Ltd, Australia)",
+    date: "August 2022 - Present",
     children:
-      "I provided strong leadership by overseeing and guiding a team of highly skilled technical professionals.",
+      "Improvement, customization and development of Australia based medical & home care software such as Home Care Packages Program application, National Disability Insurance Scheme application, Humanitarian Settlement Program application and others. Improvement, customization and development of Australia based human resource staff management of providers, assign services related to aged care program, time management, send messages. Develop APIs to integrate with workforce and consumer mobile application for aged care program application. Integrate Xero with Australia based medical & home care software. Optimize SQL queries, functions, stored procedures. Convert report code-based data fetching via SQL queries. Use and integrate Aspose Library PDF / Word libraries to generate PDF / Word document. Designed and implemented Windows services to support eReporting and eDashboard functionalities, including thresholdbased email notifications, license validation, and automated updates through API integrations. Implement Microsoft Message Queuing System (MSMQ) for sending mobile messages updates to staff and consumers based on service assign and other activities. I have ability to transform raw data into actionable insights via Data Warehousing, SSRS, and MS Power BI dashboards. I have proven track record in On-Page and Off-Page SEO to boost organic rankings. Data-backed Social Media Marketing strategies to increase brand engagement and conversions",
   },
   {
     icon: BriefcaseIcon,
-    title: "Senior Web Developer",
-    date: "2017 - 2021",
+    title: "Senior Executive @ M/s Level3bos Pvt. Ltd. (A subsidiary of M/s Mobilelink, United States - U.S.A)",
+    date: "February 2022 - July 2022",
     children:
-      "Revamped the automated test framework for web services, resulting in a remarkable 90% reduction in debugging and issue resolution time.",
+      "Improvement, customization and development of different USA based cooperate portals. Integrate AWS email services for reports automation. Add features of time management and support chat.",
   },
   {
     icon: BriefcaseIcon,
-    title: "Junior Web Developer",
-    date: "2015 - 2017",
+    title: "M/s Home Solutions @ (A subsidiary of M/s S. Abdulla & Co., Pakistan)",
+    date: "July 2016 - February 2022",
     children:
-      "Developed 10+ responsive websites for clients in a variety of industries.",
+      "Improvement, customization and development of Desktop ERP (SCM) to Web based using ASP.NET, HTML 5, JavaScript, jQuery, AJAX, and CSS and use SSRS and Power BI for reports. Integrate existing ERP with MAK Global Payment Solutions System for Loyalty Program. Develop mobile applications for viewing items details, stock position and other tasks related to software (SCM) by scanning QR code. Develop and create stored procedures and SQL functions for Web based ERP. Develop and maintain procedures, guides, handouts, and other technical documentation as needed. Gather user requirements & reports for functional and operational services for MS Dynamics 365 Ax. Coordinate and integrate the work and efforts of the MS Dynamics Ax project implementation teams. Manage duties as IT Support Officer. ",
+  },
+  {
+    icon: BriefcaseIcon,
+    title: "M/s Home Solutions @ (A subsidiary of M/s S. Abdulla & Co., Pakistan)",
+    date: "May 2015 - June 2016",
+    children:
+      "Responding to the agreed time limits to call-outs. Work with ERP systems users and management to determine appropriate system configuration and setup. Assist ERP systems users with data conversion. Understand ERP database schema. Knowledge of business practices and procedures to design, develop and maintain automated workflow processes. Analyze and troubleshoot ERP system issues reported by end users. Design, develop and maintain reports used by technical staff and ERP systems users by using SSRS and excel. Coordinate with  users through a series of actions, either face-to-face or over the telephone, to help set up ERP systems or resolve issues.",
+  },
+  {
+    icon: BriefcaseIcon,
+    title: "Senior Executive @ M/s Level3bos Pvt. Ltd. (A subsidiary of M/s Mobilelink, United States - U.S.A)",
+    date: "June 2014 - April 2015",
+    children:
+      "Developed applications according to requirements. Upgrade and resolve issues as per requirement. Test and identify technical problems. Maintaining existing codebase, to include troubleshooting bugs and adding new features.",
   },
 ];
 
@@ -98,6 +112,13 @@ const SKILLS = [
     date: "Technical Skills",
     children:
       "Expert in leveraging Python, web drivers, and APIs to engineer sophisticated automation solutions and integrate AI-driven workflows for enhanced efficiency.",
+  },
+  {
+    icon: FireIcon,
+    title: "Social Media",
+    date: "Technical Skills",
+    children:
+      "Strategic architect in Social Media Marketing, On-page SEO, Off-page SEO, utilizing data-driven insights and AI-powered automation to scale brand presence, optimize engagement workflows, and engineer high-conversion digital narratives.",
   },
 ];
 
