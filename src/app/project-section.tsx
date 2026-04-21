@@ -26,20 +26,19 @@ export function ProjectCard({
       <Link href={href} className="block">
         <CardBody className="pb-0 cursor-pointer hover:scale-[1.02] transition">
           <img src={img} alt={img} className="w-full aspect-video object-cover rounded-t-xl" />
-          <div className="flex justify-between">
-            <div>
-              <Typography className="mb-2" color="blue-gray" variant="h5">
-                {name}
-              </Typography>
-              {/* <div className="mb-5 flex items-center gap-2">
-                <div className="h-5 w-5 rounded border border-gray-900 bg-brown-300 "></div>
-                <div className="h-5 w-5 rounded border border-blue-gray-100 "></div>
-                <div className="h-5 w-5 rounded border border-blue-gray-100 bg-gray-900 "></div>
-              </div> */}
-            </div>
+          <div className="flex items-start justify-between gap-3">
+            {/* LEFT: NAME */}
             <Typography
+              className="mb-2 flex-1 leading-snug break-words"
+              color="blue-gray"
               variant="h5"
-              className="text-gray-600 font-medium"
+            >
+              {name}
+            </Typography>
+
+            {/* RIGHT: PRICE */}
+            <Typography
+              className="text-gray-500 text-sm font-semibold"
             >
               {price}
             </Typography>
