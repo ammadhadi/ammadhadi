@@ -1,94 +1,113 @@
-# [NextJS Tailwind Resume Page](http://demos.creative-tim.com/nextjs-tailwind-resume-page?ref=readme-ntrp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/nextjs-tailwind-resume-page&text=Check%20Material%20Tailwind%202%20Template%20made%20by%20@CreativeTim%20#webdesign%20#template%20#materialdesign%20#react%20https://www.creative-tim.com/product/nextjs-tailwind-resume-page)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/nextjs-tailwind-resume-page.svg)](https://github.com/creativetimofficial/nextjs-tailwind-resume-page/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/nextjs-tailwind-resume-page.svg)](https://github.com/creativetimofficial/nextjs-tailwind-resume-page/issues?q=is%3Aissue+is%3Aclosed)
+<h1 align="center">Hi 👋, I'm Ammad Hadi</h1>
+<h3 align="center">AI SaaS Builder | Full-Stack Software Engineer | React • Next.js • Node.js • PHP • Dot Net • Python Specialist</h3>
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/748/original/material-tailwind-react-resume-template-thumbnail.jpg)
+<p align="center">
+  <a href="https://ammadhadi.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:my_ammad@yahoo.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/ammad-hadi-ehsan-a32032a0/" target="_blank">💼 LinkedIn</a>
+</p>
 
-Introducing Tailwind Resume Page, a professional and visually appealing resume web page template crafted using Tailwind CSS and Material Tailwind.
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;AI+SaaS+Builder;React+%2F+Next.js+Developer;PHP+Dot+Net+Developer&center=true&width=500&height=50">
 
-Are you on the hunt for a pre-designed and highly customizable resume web page template, perfect for job seekers, professionals, and freelancers looking to showcase their skills and qualifications online? Your search ends here! We are delighted to present the Free Resume Page Template, thoughtfully designed to cater to web developers looking to create a strong online resume.
+---
 
-This template is built with the power of Tailwind CSS and Material Tailwind, providing seamless customization to match your unique personal branding. The free resume template includes key features such as hero image, logo, features, and testimonial sections.
+## 🚀 About Me
 
-**Documentation built by Developers**
+- 💻 Full-Stack Developer with hands-on experience in modern web technologies  
+- ⚡ Focused on building scalable, maintainable, performance, clean architecture, real-world, and user-friendly applications  
+- 🎯 Strong experience in **Next.js, React, Node.js, PHP, Dot Net, Python, and API development**  
+- 🌍 Open to **remote & onsite opportunities**  
+- 📈 Always improving performance, UX, and code quality  
 
-Each element is well presented in very complex documentation.
+---
 
-You can read more about the [documentation here](https://www.material-tailwind.com/docs/react/installation).
+## 🛠 Tech Stack
 
-**HELPFUL LINKS**
+### Frontend
+![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-- View [Github Repository](https://github.com/creativetimofficial/nextjs-tailwind-resume-page)
-- Check [FAQ Page](https://www.creative-tim.com/faq)
+## 🎨 UI / Components
 
-## [Demo](https://creative-tim.com/product/nextjs-tailwind-resume-page)
+![Kendo UI](https://img.shields.io/badge/Kendo_UI-FF6358?style=for-the-badge&logo=telerik&logoColor=white)
 
-## Quick start
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-Quick start options:
+### Database & Cloud
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
-- Download from [Creative Tim](https://www.creative-tim.com/product/nextjs-tailwind-resume-page?ref=readme-ntrp).
+## 📊 Reporting & BI
 
-## Terminal Commands
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
-2. Navigate to the root ./ directory of the product and run `npm install` to install our local dependencies.
+---
 
-## Documentation
+## 🔥 Featured Projects
 
-The documentation for the Material Dashboard is hosted at our [website](https://www.material-tailwind.com/docs/react/installation?ref=readme-ntrp).
+[🔗 View Project](https://github.com/your-repo)
+ 
+### 🏥 Healthcare Automation System
+- WhatsApp, Email + AI workflows  
+- Automated user communication & processes  
 
-## Browser Support
+### 💼 CRM & Enterprise Platforms
+- Built scalable dashboards & internal tools  
+- Focus on performance and usability  
 
-At present, we officially aim to support the last two versions of the following browsers:
+### 🤖 Health Care platforms
+- Built scalable and integrated applications  
+- Easy to use, better performance, seemless third party integration and other applications  
 
-<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
+---
 
-## Resources
+## 📊 GitHub Stats
 
-- [Live Preview](https://demos.creative-tim.com/nextjs-tailwind-resume-page?ref=readme-ntrp)
-- [Download Page](https://www.creative-tim.com/product/nextjs-tailwind-resume-page?ref=readme-ntrp)
-- Documentation is [here](https://www.material-tailwind.com/docs/react/installation?ref=readme-ntrp)
-- [License Agreement](https://www.creative-tim.com/license?ref=readme-ntrp)
-- [Support](https://www.creative-tim.com/contact-us?ref=readme-ntrp)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/nextjs-tailwind-resume-page/issues)
-- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ammadhadi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammadhadi&theme=radical" />
+</p>
 
-## Reporting Issues
+---
 
-We use GitHub Issues as the official bug tracker for the Nextjs Tailwind Author Page. Here are some advices for our users that want to report an issue:
+## 📈 Top Languages
 
-1. Make sure that you are using the latest version of the Nextjs Tailwind Author Page. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/nextjs-tailwind-resume-page?ref=readme-ntrp).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammadhadi&layout=compact&theme=radical" />
+</p>
 
-## Technical Support or Questions
+---
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-ntrp) instead of opening an issue.
+## 📊 Profile Views
 
-## Licensing
+![Profile Views](https://komarev.com/ghpvc/?username=ammadhadi&color=blue)
 
-- Copyright 2023 [Creative Tim](https://www.creative-tim.com?ref=readme-ntrp)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-ntrp)
+---
 
-## Useful Links
+### 🔹 Portfolio Website
+Personal portfolio built with Next.js and Tailwind CSS  
+**Tech:** Next.js, Tailwind  
+[🔗 Live](https://ammadhadi.vercel.app/) | [🔗 Code](https://github.com/ammadhadi/ammadhadi)
 
-- [More products](https://www.creative-tim.com/templates?ref=readme-ntrp) from Creative Tim
+---
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
+## 🤝 Let's Connect
 
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-ntrp) from Creative Tim
+- 🌐 Portfolio: https://ammadhadi.vercel.app/  
+- 💼 LinkedIn: [Ammad Hadi Ehsan](https://www.linkedin.com/in/ammad-hadi-ehsan-a32032a0/)  
+- 📧 Email: my_ammad@yahoo.com  
 
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-ntrp) (earn money)
+---
 
-##### Social Media
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
+⭐️ From [ammadhadi](https://github.com/ammadhadi)
