@@ -40,7 +40,7 @@ export function ProjectCard({
 
             {/* RIGHT: PRICE */}
             <Typography
-              className="text-gray-500 text-sm font-semibold text-right"
+              className="font-normal text-gray-500 text-right"
             >
               {price}
             </Typography>
