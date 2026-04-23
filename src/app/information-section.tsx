@@ -157,7 +157,7 @@ const SKILLS = [
   },
   {
     icon: FireIcon,
-    title: "Social Media",
+    title: "Content Writng & Social Media",
     date: "Technical Skills",
     children:
       "Strategic architect in Social Media Marketing, On-page SEO, Off-page SEO, utilizing data-driven insights and AI-powered automation to scale brand presence, optimize engagement workflows, and engineer high-conversion digital narratives.",
