@@ -19,7 +19,7 @@ interface InfoCardProps {
 export function InfoCard({ icon: Icon, title, date, children, defaultOpen = true }: InfoCardProps) {
 
   const [open, setOpen] = useState(defaultOpen);
-  const contentRef = useRef(null);
+  const contentRef = useRef<HTMLDivElement | null>(null);
   const [height, setHeight] = useState(0);
 
   useEffect(() => {
