@@ -151,7 +151,7 @@ const CONTENTS = [
   {
     img: "/image/blog2.svg",
     href: "https://www.laureapeoplessignature.com/web-designing-development/landing-page-development-agency/",
-    name: "Tranforming Brands for the digital future",
+    name: "Tranforming Brands for the Digital Future",
     tech: "SEO Optimized Content, Impressive Tone, Primary & Secondary Keywords"
   },
   {
@@ -163,7 +163,7 @@ const CONTENTS = [
   {
     img: "/image/blog2.svg",
     href: "https://actofit.com/2021/06/18/5-steps-to-the-ideal-workout-diet/",
-    name: "Steps to workout for ideal diet",
+    name: "Steps to Workout for Ideal Diet",
     tech: "SEO Optimized Content, Impressive Tone, Primary & Secondary Keywords"
   },
   {
