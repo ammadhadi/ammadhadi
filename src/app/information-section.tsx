@@ -168,7 +168,7 @@ export function InformationSection() {
   return (
     <section className="w-full bg-gradient-to-r from-indigo-50 via-white to-blue-50">
       <div className="max-w-7xl mx-auto px-8 py-20">
-        <div className="grid xl:grid-cols-2 md:grid-cols-1 container gap-20 mx-auto items-start">
+        <div className="grid xl:grid-cols-2 md:grid-cols-1 gap-20 items-start">
           <div>
             <div className="mb-10">
               <Typography color="blue-gray" className="mb-2 text-3xl font-bold">
@@ -193,7 +193,7 @@ export function InformationSection() {
                 See my experience as a professional.
               </Typography>
             </div>
-            <div className="container mx-auto grid grid-cols-1 gap-16 gap-y-12">
+            <div className="grid grid-cols-1 gap-16 gap-y-12">
               {EXPERIENCE.map((props, idx) => (
                 <InfoCard key={idx} {...props} defaultOpen={false} />
               ))}
