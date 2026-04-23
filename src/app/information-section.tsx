@@ -167,8 +167,8 @@ const SKILLS = [
 export function InformationSection() {
   return (
     <section className="w-full bg-gradient-to-r from-indigo-50 via-white to-blue-50">
-      <div className="max-w-7xl mx-auto px-8 pb-28">
-        <div className="grid xl:grid-cols-2 md:grid-cols-1 gap-20 items-start">
+      <div className="max-w-7xl mx-auto px-8 py-20">
+        <div className="grid xl:grid-cols-2 md:grid-cols-1 container gap-20 mx-auto items-start">
           <div>
             <div className="mb-10">
               <Typography color="blue-gray" className="mb-2 text-3xl font-bold">
