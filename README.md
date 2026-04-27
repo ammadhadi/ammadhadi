@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/ammad-hadi-ehsan-a32032a0/" target="_blank">💼 LinkedIn</a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;AI+SaaS+Builder;React+%2F+Next.js+Developer;PHP+Dot+Net+Developer&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;AI+SaaS+Builder;React+%2F+Next.js+Developer;PHP+%2F+Dot+Net+Developer&center=true&width=500&height=50">
 
 ---
 
