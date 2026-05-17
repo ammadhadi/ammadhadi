@@ -79,7 +79,7 @@ const EXPERIENCE = [
   },
   {
     icon: BriefcaseIcon,
-    title: "M/s Home Solutions @ (A subsidiary of M/s S. Abdulla & Co., Pakistan)",
+    title: "Senior IT Executive @ M/s Home Solutions. (A subsidiary of M/s S. Abdulla & Co., Pakistan)",
     date: "July 2016 - February 2022",
     children: [
       "Improvement, customization and development of Desktop ERP (SCM) to Web based using ASP.NET, HTML 5, JavaScript, jQuery, AJAX, and CSS and use SSRS and Power BI for reports.",
@@ -94,7 +94,7 @@ const EXPERIENCE = [
   },
   {
     icon: BriefcaseIcon,
-    title: "M/s Home Solutions @ (A subsidiary of M/s S. Abdulla & Co., Pakistan)",
+    title: "IT Software Support Officer @ M/s Home Solutions. (A subsidiary of M/s S. Abdulla & Co., Pakistan)",
     date: "May 2015 - June 2016",
     children: [
       "Responding to the agreed time limits to call-outs.",
@@ -108,7 +108,7 @@ const EXPERIENCE = [
   },
   {
     icon: BriefcaseIcon,
-    title: "Senior Executive @ M/s Level3bos Pvt. Ltd. (A subsidiary of M/s Mobilelink, United States - U.S.A)",
+    title: "PHP / Web Developer @ M/S Maven Styles, Pakistan",
     date: "June 2014 - April 2015",
     children: [
       "Developed applications according to requirements.",
