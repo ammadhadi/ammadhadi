@@ -63,6 +63,12 @@ export function ProjectCard({
 const CONTENTS = [
   // programming and development section
   {
+    img: "/works/GreenScan-Web.png",
+    href: "https://greenscan.co.uk/",
+    name: "Green Scan Web Platform",
+    tech: "Python, Nextjs, ReactJs, NodeJs, API Development, PostgrSQL, Tailwind CSS"
+  },
+  {
     img: "/works/DingDong-Web.jpg",
     href: "https://dindo.eu1.online-webcam.net/",
     name: "Dating Web App",
