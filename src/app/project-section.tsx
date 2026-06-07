@@ -69,6 +69,12 @@ const CONTENTS = [
     tech: "Python, Nextjs, ReactJs, NodeJs, API Development, PostgrSQL, Tailwind CSS"
   },
   {
+    img: "/works/Fourd.jpeg",
+    href: "https://fourd.com.au/",
+    name: "Fourtify Defence",
+    tech: "Dot Net Core, Nextjs, ReactJs, NodeJs, API Development, Supabase, PostgrSQL, Tailwind CSS"
+  },
+  {
     img: "/works/DingDong-Web.jpg",
     href: "https://dindo.eu1.online-webcam.net/",
     name: "Dating Web App",
